@@ -8,7 +8,7 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 <!--gif animaiton of computer-->
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="400" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="350" /></p>
 
 <br>
 
@@ -40,7 +40,10 @@
 <br>
 
 
-# 📊 GitHub Stats:
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=M-Saad-saif&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=M-Saad-saif&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=M-Saad-saif&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Saad-saif&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -51,8 +54,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=M-Saad-saif&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
 
 <!--socila media accounts-->
 <h2 align="left">Connect with me:🤝</h2>
