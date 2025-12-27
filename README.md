@@ -34,6 +34,15 @@
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> </a> 
+<!--postman-->
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+    alt="postman"
+    width="40"
+    height="40"
+  />
+</a>
    </p>
 
 
