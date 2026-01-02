@@ -53,8 +53,8 @@
 ### [GetWeather | Weather App](https://github.com/M-Saad-saif/GetWeather)
 
 <div style="display:flex; align-items:center;">
-  <img src="https://github.com/user-attachments/assets/809a6adc-382f-4904-9908-68fddd716c74" width="130" alt="GetWeather Poster"
-  />
+  <!-- <img src="https://github.com/user-attachments/assets/809a6adc-382f-4904-9908-68fddd716c74" width="130" alt="GetWeather Poster" -->
+  <!-- /> -->
   
   <div>
     <p>
@@ -71,7 +71,7 @@
 ## [s.NoteBook](https://github.com/M-Saad-saif/sNotebook)
 
 <div style="display:flex; align-items:center;">
-  <img width="130" height="90" alt="snotebook poster" src="https://github.com/user-attachments/assets/92b83a3f-fcca-422a-beb2-f23e85f1f3a5" />
+  <!-- <img width="130" height="90" alt="snotebook poster" src="https://github.com/user-attachments/assets/92b83a3f-fcca-422a-beb2-f23e85f1f3a5" /> -->
   
   <div>
     <p>
@@ -85,7 +85,7 @@
 ## [Buitems Web](https://github.com/M-Saad-saif/Buitems-Web)
 
 <div style="display:flex; align-items:center;">
-  <img width="130" height="90" alt="snotebook poster" src="https://github.com/user-attachments/assets/507ff44b-31de-42ac-9f02-4ff163dc2ca8" />
+  <!-- <img width="130" height="90" alt="snotebook poster" src="https://github.com/user-attachments/assets/507ff44b-31de-42ac-9f02-4ff163dc2ca8" /> -->
   
   <div>
     <p>
