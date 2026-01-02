@@ -53,7 +53,7 @@
 ### [GetWeather | Weather App](https://github.com/M-Saad-saif/GetWeather)
 
 <div style="display:flex; align-items:center;">
-  <img src="https://github.com/user-attachments/assets/809a6adc-382f-4904-9908-68fddd716c74" width="160" alt="GetWeather Poster"
+  <img src="https://github.com/user-attachments/assets/809a6adc-382f-4904-9908-68fddd716c74" width="130" alt="GetWeather Poster"
   />
   
   <div>
@@ -71,7 +71,7 @@
 ## [s.NoteBook](https://github.com/M-Saad-saif/sNotebook)
 
 <div style="display:flex; align-items:center;">
-  <img width="160" height="120" alt="snotebook poster" src="https://github.com/user-attachments/assets/92b83a3f-fcca-422a-beb2-f23e85f1f3a5" />
+  <img width="130" height="90" alt="snotebook poster" src="https://github.com/user-attachments/assets/92b83a3f-fcca-422a-beb2-f23e85f1f3a5" />
   
   <div>
     <p>
@@ -85,7 +85,7 @@
 ## [Buitems Web](https://github.com/M-Saad-saif/Buitems-Web)
 
 <div style="display:flex; align-items:center;">
-  <img width="160" height="120" alt="snotebook poster" src="https://github.com/user-attachments/assets/507ff44b-31de-42ac-9f02-4ff163dc2ca8" />
+  <img width="130" height="90" alt="snotebook poster" src="https://github.com/user-attachments/assets/507ff44b-31de-42ac-9f02-4ff163dc2ca8" />
   
   <div>
     <p>
@@ -106,32 +106,11 @@
 
 ---
 
-<br>
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=M-Saad-saif&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
----
-
-
-
-<br>
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=M-Saad-saif&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=M-Saad-saif&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Saad-saif&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=M-Saad-saif&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
-<br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
