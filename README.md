@@ -58,7 +58,7 @@
 
   </table>
   
-  <table 
+  <table>
     <td align="center" >
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZe81PCziV9mAq3eAhAmMNNQZ5He6sQvgaeA&s" width="40"/>
       <br>
