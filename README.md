@@ -14,34 +14,51 @@
 
 ## 🛠️ Languages and Tools
 
-<br>
+### Languages
 
-<p align="center"> <table align="center"> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=mongodb" width="48" /> <br><b>MongoDB</b> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=express" width="48" /> <br><b>Express.js</b> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=react" width="48" /> <br><b>React.js</b> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=nodejs" width="48" /> <br><b>Node.js</b> </td> </tr> </table> </p>
+<p align="left">
+  <table align="center">
+    <tr>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=html" width="48" />
+          <br><b>HTML</b>
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=css" width="48" />
+          <br><b>CSS</b>
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=js" width="48" />
+          <br><b>JavaScript</b>
+        </td>
+        <td align="center">
+         <img src="https://skillicons.dev/icons?i=python" width="48" />
+          <br><b>Python</b>
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=mongodb" width="48" />
+          <br><b>MongoDB</b>
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=express" width="48" />
+          <br><b>Express.js</b>
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=react" width="48" />
+          <br><b>React.js</b>
+        </td>
+        <td align="center">
+         <img src="https://skillicons.dev/icons?i=nodejs" width="48" />
+          <br><b>Node.js</b>
+        </td>
+      </tr>
+  </table>
+</p>
 
+### Tools
 <p align="center">
   <table align="center">
     <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=html" width="48" />
-        <br><b>HTML</b>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=css" width="48" />
-        <br><b>CSS</b>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=js" width="48" />
-        <br><b>JavaScript</b>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" />
-        <br><b>C++</b>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=python" width="48" />
-        <br><b>Python</b>
-      </td>
-      </tr>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=git" width="48" />
         <br><b>Git</b>
@@ -54,22 +71,18 @@
         <img src="https://skillicons.dev/icons?i=postman" width="48" />
         <br><b>Postman</b>
       </td>
+      <td align="center" >
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZe81PCziV9mAq3eAhAmMNNQZ5He6sQvgaeA&s" width="40"/>
+        <br>
+        <b>JWT <br> Authentication</b>
+      </td>
+      <td align="center">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrYZ8hTBz2-GU2W8sf1i0vxypsE12e-6SEIA&s" width="50" height="100"/>
+        <br>
+        <b>Rest API</b>
+      </td>
     </tr>
-
   </table>
-  
-  <table>
-    <td align="center" >
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZe81PCziV9mAq3eAhAmMNNQZ5He6sQvgaeA&s" width="40"/>
-      <br>
-      <b>JWT <br> Authentication</b>
-    </td>
-    <td align="center">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrYZ8hTBz2-GU2W8sf1i0vxypsE12e-6SEIA&s" width="50" height="100"/>
-      <br>
-      <b>Rest API</b>
-    </td>
-  </table> 
 </p>
 
 
