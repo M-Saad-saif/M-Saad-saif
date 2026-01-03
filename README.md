@@ -33,6 +33,10 @@
          <img src="https://skillicons.dev/icons?i=python" width="48" />
           <br><b>Python</b>
         </td>
+        <td align="center">
+         <img src="https://skillicons.dev/icons?i=cpp" width="48" />
+          <br><b>Cpp</b>
+        </td>
     </tr>
         <td align="center">
           <img src="https://skillicons.dev/icons?i=mongodb" width="48" />
