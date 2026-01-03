@@ -12,38 +12,66 @@
 
 ---
 
+## 🛠️ Languages and Tools
+
 <br>
 
-<h2 align="left">Languages and Tools:</h2>
-<p align="left"> 
-  <!--cpp-->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a>
-  <!--css-->
-  <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a>
-  <!--html-->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a>
-  <!--js-->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> 
-<!--postman
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-    alt="postman"
-    width="40"
-    height="40"
-  />
-</a>-->
-   </p>
+<p align="center"> <table align="center"> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=mongodb" width="48" /> <br><b>MongoDB</b> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=express" width="48" /> <br><b>Express.js</b> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=react" width="48" /> <br><b>React.js</b> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=nodejs" width="48" /> <br><b>Node.js</b> </td> </tr> </table> </p>
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html" width="48" />
+        <br><b>HTML</b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=css" width="48" />
+        <br><b>CSS</b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=js" width="48" />
+        <br><b>JavaScript</b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" />
+        <br><b>C++</b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python" width="48" />
+        <br><b>Python</b>
+      </td>
+      </tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git" width="48" />
+        <br><b>Git</b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=github" width="48" />
+        <br><b>GitHub</b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" />
+        <br><b>Postman</b>
+      </td>
+    </tr>
+
+  </table>
+  
+  <table 
+    <td align="center" >
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZe81PCziV9mAq3eAhAmMNNQZ5He6sQvgaeA&s" width="40"/>
+      <br>
+      <b>JWT <br> Authentication</b>
+    </td>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrYZ8hTBz2-GU2W8sf1i0vxypsE12e-6SEIA&s" width="50" height="100"/>
+      <br>
+      <b>Rest API</b>
+    </td>
+  </table> 
+</p>
+
 
 
 ---
