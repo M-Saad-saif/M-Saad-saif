@@ -18,51 +18,62 @@
   <table align="left">
     <tr>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=html" width="48" />
+          <img src="https://skillicons.dev/icons?i=html" width="40" />
           <br><b>HTML</b>
         </td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=css" width="48" />
+          <img src="https://skillicons.dev/icons?i=css" width="40" />
           <br><b>CSS</b>
         </td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=js" width="48" />
+          <img src="https://skillicons.dev/icons?i=js" width="40" />
           <br><b>JavaScript</b>
         </td>
         <td align="center">
-         <img src="https://skillicons.dev/icons?i=python" width="48" />
+         <img src="https://skillicons.dev/icons?i=python" width="40" />
           <br><b>Python</b>
         </td>
         <td align="center">
-         <img src="https://skillicons.dev/icons?i=cpp" width="48" />
+         <img src="https://skillicons.dev/icons?i=cpp" width="40" />
           <br><b>Cpp</b>
         </td>
-    </tr>
+      </tr>
+  </table>
+</p>
+
+<br clear="left" />
+
+<!--gif animaiton of computer-->
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="300" /></p>
+
+### MERN
+
+<p align="center">
+  <table align="left">
+    <tr>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=mongodb" width="48" />
+          <img src="https://skillicons.dev/icons?i=mongodb" width="40" />
           <br><b>MongoDB</b>
         </td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=express" width="48" />
+          <img src="https://skillicons.dev/icons?i=express" width="40" />
           <br><b>Express.js</b>
         </td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=react" width="48" />
+          <img src="https://skillicons.dev/icons?i=react" width="40" />
           <br><b>React.js</b>
         </td>
         <td align="center">
-         <img src="https://skillicons.dev/icons?i=nodejs" width="48" />
+         <img src="https://skillicons.dev/icons?i=nodejs" width="40" />
           <br><b>Node.js</b>
         </td>
       </tr>
   </table>
 </p>
 
-<!--gif animaiton of computer-->
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="300" /></p>
+
 
 <br clear="left" />
-
 
 ### Tools
 
@@ -70,15 +81,15 @@
  <table align="left">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" width="48" />
+      <img src="https://skillicons.dev/icons?i=git" width="40" />
       <br><b>Git</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=github" width="48" />
+      <img src="https://skillicons.dev/icons?i=github" width="40" />
       <br><b>GitHub</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" />
+      <img src="https://skillicons.dev/icons?i=postman" width="40" />
       <br><b>Postman</b>
     </td>
     <td align="center">
@@ -93,7 +104,7 @@
     </td>
   </tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="40" />
       <br>
       <b>BootStrap</b>
     </td>
