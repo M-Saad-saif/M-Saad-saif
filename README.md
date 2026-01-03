@@ -7,8 +7,6 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-<!--gif animaiton of computer-->
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="300" /></p>
 
 ---
 
@@ -16,8 +14,8 @@
 
 ### Languages
 
-<p align="left">
-  <table align="center">
+<p align="center">
+  <table align="left">
     <tr>
         <td align="center">
           <img src="https://skillicons.dev/icons?i=html" width="48" />
@@ -35,6 +33,7 @@
          <img src="https://skillicons.dev/icons?i=python" width="48" />
           <br><b>Python</b>
         </td>
+    </tr>
         <td align="center">
           <img src="https://skillicons.dev/icons?i=mongodb" width="48" />
           <br><b>MongoDB</b>
@@ -55,37 +54,45 @@
   </table>
 </p>
 
+<!--gif animaiton of computer-->
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="300" /></p>
+
+<br clear="left" />
+
+
 ### Tools
+
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=git" width="48" />
-        <br><b>Git</b>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=github" width="48" />
-        <br><b>GitHub</b>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" />
-        <br><b>Postman</b>
-      </td>
-      <td align="center" >
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZe81PCziV9mAq3eAhAmMNNQZ5He6sQvgaeA&s" width="40"/>
-        <br>
-        <b>JWT <br> Authentication</b>
-      </td>
-      <td align="center">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrYZ8hTBz2-GU2W8sf1i0vxypsE12e-6SEIA&s" width="50" height="100"/>
-        <br>
-        <b>Rest API</b>
-      </td>
-    </tr>
-  </table>
+ <table align="left">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="48" />
+      <br><b>Git</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="48" />
+      <br><b>GitHub</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" />
+      <br><b>Postman</b>
+    </td>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZe81PCziV9mAq3eAhAmMNNQZ5He6sQvgaeA&s" width="40" />
+      <br>
+      <b>JWT<br>Authentication</b>
+    </td>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrYZ8hTBz2-GU2W8sf1i0vxypsE12e-6SEIA&s" width="50" />
+      <br>
+      <b>REST API</b>
+    </td>
+  </tr>
+</table>
+
 </p>
 
-
+<br clear="left" />
 
 ---
 
@@ -94,9 +101,7 @@
 ### [GetWeather | Weather App](https://github.com/M-Saad-saif/GetWeather)
 
 <div style="display:flex; align-items:center;">
-  <!-- <img src="https://github.com/user-attachments/assets/809a6adc-382f-4904-9908-68fddd716c74" width="130" alt="GetWeather Poster" -->
-  <!-- /> -->
-  
+
   <div>
     <p>
       GetWeather is a React.js web application that fetches real-time weather data
@@ -126,8 +131,6 @@
 ## [Buitems Web](https://github.com/M-Saad-saif/Buitems-Web)
 
 <div style="display:flex; align-items:center;">
-  <!-- <img width="130" height="90" alt="snotebook poster" src="https://github.com/user-attachments/assets/507ff44b-31de-42ac-9f02-4ff163dc2ca8" /> -->
-  
   <div>
     <p>
      Buitems Web which can calculate aggregate, GPA , CGPA, pront front page for better looking of assignments, responsive , better UI.
