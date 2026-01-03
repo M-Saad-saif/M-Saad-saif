@@ -92,6 +92,12 @@
       <b>REST API</b>
     </td>
   </tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" />
+      <br>
+      <b>BootStrap</b>
+    </td>
+  </tr>
 </table>
 
 </p>
