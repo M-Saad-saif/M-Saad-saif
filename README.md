@@ -108,6 +108,11 @@
       <br>
       <b>BootStrap</b>
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" />
+      <br>
+      <b>VS code</b>
+    </td>
   </tr>
 </table>
 
