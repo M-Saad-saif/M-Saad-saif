@@ -97,12 +97,12 @@
       <br>
       <b>JWT<br>Authentication</b>
     </td>
+  </tr>
     <td align="center">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrYZ8hTBz2-GU2W8sf1i0vxypsE12e-6SEIA&s" width="50" />
       <br>
       <b>REST API</b>
     </td>
-  </tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="40" />
       <br>
