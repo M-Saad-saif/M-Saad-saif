@@ -124,34 +124,29 @@
 
 ## 🚀 Featured Projects
 
-### [University Student Portal & Tools](https://github.com/M-Saad-saif/BuitemsWeb-auth)
+#### [University Student Portal & Tools](https://github.com/M-Saad-saif/BuitemsWeb-auth)
 
-<div style="display:flex; align-items:center;">
+<div style="display:flex; align-items:center; ">
 
   <div>
-<p style="font-size: 12px;">
- <i>A student-focused web platform providing essential academic tools such as a secure student portal, GPA/CGPA calculator, and assignment front-page generator — all in one place.</i> 
+   <p>
+  <i>A student-focused web platform providing essential academic tools such as a secure student portal, GPA/CGPA calculator, and assignment front-page generator — all in one place.</i> 
 </p>
     <p><strong>Tech Stack:</strong> MERN stack</p>
   </div>
 
 </div>
 
-### [s.SongSaver | Autentication](https://github.com/M-Saad-saif/s.songsaver-auth)
+#### [s.SongSaver | Autentication](https://github.com/M-Saad-saif/s.songsaver-auth)
 
-<div style="display:flex; align-items:center;">
-
-  <div>
-    <p>
+<div style="display:flex; align-items:center; ">
       <i>SongSaver: A full-stack web app where users securely save their favorite songs. Features user authentication, personalized profiles, and a searchable collection</i>
     </p>
     <p><strong>Tech Stack:</strong> MERN stack</p>
-  </div>
-
 </div>
 
 
-## [s.NoteBook](https://github.com/M-Saad-saif/sNotebook)
+#### [s.NoteBook](https://github.com/M-Saad-saif/sNotebook)
 
 <div style="display:flex; align-items:center;">
   
