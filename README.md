@@ -124,17 +124,28 @@
 
 ## 🚀 Featured Projects
 
-### [GetWeather | Weather App](https://github.com/M-Saad-saif/GetWeather)
+### [University Student Portal & Tools](https://github.com/M-Saad-saif/BuitemsWeb-auth)
+
+<div style="display:flex; align-items:center;">
+
+  <div>
+<p style="font-size: 12px;">
+ <i>A student-focused web platform providing essential academic tools such as a secure student portal, GPA/CGPA calculator, and assignment front-page generator — all in one place.</i> 
+</p>
+    <p><strong>Tech Stack:</strong> MERN stack</p>
+  </div>
+
+</div>
+
+### [s.SongSaver | Autentication](https://github.com/M-Saad-saif/s.songsaver-auth)
 
 <div style="display:flex; align-items:center;">
 
   <div>
     <p>
-      GetWeather is a React.js web application that fetches real-time weather data
-      using a weather API. It provides current weather conditions and hourly/daily
-      forecasts for any city.
+      <i>SongSaver: A full-stack web app where users securely save their favorite songs. Features user authentication, personalized profiles, and a searchable collection</i>
     </p>
-    <p><strong>Tech Stack:</strong> React</p>
+    <p><strong>Tech Stack:</strong> MERN stack</p>
   </div>
 
 </div>
@@ -143,25 +154,12 @@
 ## [s.NoteBook](https://github.com/M-Saad-saif/sNotebook)
 
 <div style="display:flex; align-items:center;">
-  <!-- <img width="130" height="90" alt="snotebook poster" src="https://github.com/user-attachments/assets/92b83a3f-fcca-422a-beb2-f23e85f1f3a5" /> -->
   
   <div>
     <p>
       s.Notebook uses user authetication, fetchs data of user and their belonging notes, CRUD is applied in notes backend. Save the data in the mongooDB atlas
     </p>
     <p><strong>Tech Stack:</strong> React.js, Node.js, Express.js, MongooDB</p>
-  </div>
-
-</div>
-
-## [Buitems Web](https://github.com/M-Saad-saif/Buitems-Web)
-
-<div style="display:flex; align-items:center;">
-  <div>
-    <p>
-     Buitems Web which can calculate aggregate, GPA , CGPA, pront front page for better looking of assignments, responsive , better UI.
-    </p>
-    <p><strong>Tech Stack:</strong> HTML, CSS, JavaScript</p>
   </div>
 
 </div>
