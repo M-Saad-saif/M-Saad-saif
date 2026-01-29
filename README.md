@@ -18,23 +18,23 @@
   <table align="left">
     <tr>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=html" width="40" />
+          <img src="https://skillicons.dev/icons?i=html" width="30" />
           <br><b>HTML</b>
         </td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=css" width="40" />
+          <img src="https://skillicons.dev/icons?i=css" width="30" />
           <br><b>CSS</b>
         </td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=js" width="40" />
+          <img src="https://skillicons.dev/icons?i=js" width="30" />
           <br><b>JavaScript</b>
         </td>
         <td align="center">
-         <img src="https://skillicons.dev/icons?i=python" width="40" />
+         <img src="https://skillicons.dev/icons?i=python" width=30" />
           <br><b>Python</b>
         </td>
         <td align="center">
-         <img src="https://skillicons.dev/icons?i=cpp" width="40" />
+         <img src="https://skillicons.dev/icons?i=cpp" width="30" />
           <br><b>Cpp</b>
         </td>
       </tr>
@@ -52,19 +52,19 @@
   <table align="left">
     <tr>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=mongodb" width="40" />
+          <img src="https://skillicons.dev/icons?i=mongodb" width="30" />
           <br><b>MongoDB</b>
         </td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=express" width="40" />
+          <img src="https://skillicons.dev/icons?i=express" width="30" />
           <br><b>Express.js</b>
         </td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=react" width="40" />
+          <img src="https://skillicons.dev/icons?i=react" width="30" />
           <br><b>React.js</b>
         </td>
         <td align="center">
-         <img src="https://skillicons.dev/icons?i=nodejs" width="40" />
+         <img src="https://skillicons.dev/icons?i=nodejs" width="30" />
           <br><b>Node.js</b>
         </td>
       </tr>
@@ -81,35 +81,35 @@
  <table align="left">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" width="40" />
+      <img src="https://skillicons.dev/icons?i=git" width=30" />
       <br><b>Git</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=github" width="40" />
+      <img src="https://skillicons.dev/icons?i=github" width="30" />
       <br><b>GitHub</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=postman" width="40" />
+      <img src="https://skillicons.dev/icons?i=postman" width="30" />
       <br><b>Postman</b>
     </td>
     <td align="center">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZe81PCziV9mAq3eAhAmMNNQZ5He6sQvgaeA&s" width="40" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZe81PCziV9mAq3eAhAmMNNQZ5He6sQvgaeA&s" width="30" />
       <br>
       <b>JWT<br>Authentication</b>
     </td>
   </tr>
     <td align="center">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrYZ8hTBz2-GU2W8sf1i0vxypsE12e-6SEIA&s" width="50" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrYZ8hTBz2-GU2W8sf1i0vxypsE12e-6SEIA&s" width="40" />
       <br>
       <b>REST API</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="40" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="30" />
       <br>
       <b>BootStrap</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="40" />
+      <img src="https://skillicons.dev/icons?i=vscode" width="30" />
       <br>
       <b>VS code</b>
     </td>
