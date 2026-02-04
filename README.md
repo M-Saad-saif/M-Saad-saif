@@ -78,6 +78,9 @@
       <img src="https://skillicons.dev/icons?i=github" width="30" />
     </td>
     <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="30" />
+    </td>
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=postman" width="30" />
     </td>
     <td align="center">
