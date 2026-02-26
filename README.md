@@ -1,5 +1,5 @@
 <h1 align="left"><b>Hi , I'm Muhammad Saad Saif </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=50&&typeSpeed=120&deleteSpeed=80&lines=Computer+Science+Student;Frontend+developer;Backend+developer;React+%7C+MERN+Stack"></a>
 </p>
@@ -122,24 +122,24 @@
 
 </div>
 
-#### [s.SongSaver | Autentication](https://github.com/M-Saad-saif/s.songsaver-auth)
+#### [saadIXsocials | Social Web App](https://github.com/M-Saad-saif/saadiXsocial-CodeAlpha)
 
 <div style="display:flex; align-items:center; ">
-      <i>SongSaver: A full-stack web app where users securely save their favorite songs. Features user authentication, personalized profiles, and a searchable collection</i>
+      <i>A full-stack, production-ready social media platform built with the MERN stack. Connect, share, and engage with friends and family in a secure, modern environment.</i>
     </p>
     <p><strong>Tech Stack:</strong> MERN stack</p>
 </div>
 
 
-#### [s.NoteBook](https://github.com/M-Saad-saif/sNotebook)
+#### [Communication Web App](https://github.com/M-Saad-saif/CommunicationApp-CodeAlpha)
 
 <div style="display:flex; align-items:center;">
   
   <div>
     <p>
-      s.Notebook uses user authetication, fetchs data of user and their belonging notes, CRUD is applied in notes backend. Save the data in the mongooDB atlas
+      Designed with scalability, security, and real-time performance in mind. It uses WebRTC mesh architecture for peer-to-peer media exchange and Socket.io for signaling and live events
     </p>
-    <p><strong>Tech Stack:</strong> React.js, Node.js, Express.js, MongooDB</p>
+    <p><strong>Tech Stack:</strong>MERN stack, WebRTC, Socket.io</p>
   </div>
 
 </div>
