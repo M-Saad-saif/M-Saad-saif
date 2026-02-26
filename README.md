@@ -41,7 +41,7 @@
 <!--gif animaiton of computer-->
 <!--<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="300" /></p> -->
 
-### MERN
+### MERN & Next.js
 
 <p align="center">
   <table align="left">
@@ -57,6 +57,9 @@
         </td>
         <td align="center">
          <img src="https://skillicons.dev/icons?i=nodejs" width="30" />
+        </td>
+        <td align="center">
+         <img src="https://skillicons.dev/icons?i=nextjs" width="30" />
         </td>
       </tr>
   </table>
