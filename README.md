@@ -1,3 +1,5 @@
+<!--gif animaiton of computer-->
+<!--<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="300" /></p> -->
 <h1 align="left"><b>Hi , I'm Muhammad Saad Saif </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -12,98 +14,20 @@
 
 ## 🛠️ Languages and Tools
 
-### Languages
-
 <p align="center">
-  <table align="left">
-    <tr>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=html" width="30" />
-        </td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=css" width="30" />
-        </td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=js" width="30" />
-        </td>
-        <td align="center">
-         <img src="https://skillicons.dev/icons?i=python" width=30" />
-        </td>
-        <td align="center">
-         <img src="https://skillicons.dev/icons?i=cpp" width="30" />
-        </td>
-      </tr>
-  </table>
+   <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,mongodb" width="300" />
 </p>
 
-
-  <br clear="left" />
-<!--gif animaiton of computer-->
-<!--<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="300" /></p> -->
-
-### MERN & Next.js
-
 <p align="center">
-  <table align="left">
-    <tr>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=mongodb" width="30" />
-        </td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=express" width="30" />
-        </td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=react" width="30" />
-        </td>
-        <td align="center">
-         <img src="https://skillicons.dev/icons?i=nodejs" width="30" />
-        </td>
-        <td align="center">
-         <img src="https://skillicons.dev/icons?i=nextjs" width="30" />
-        </td>
-      </tr>
-  </table>
+    <img src="https://skillicons.dev/icons?i=express,react,nodejs,nextjs,git,github" width="300" />
 </p>
 
-
-
-<br clear="left" />
-
-### Tools
-
 <p align="center">
- <table align="left">
-  <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" width=30" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=github" width="30" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="30" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postman" width="30" />
-    </td>
-    <td align="center">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZe81PCziV9mAq3eAhAmMNNQZ5He6sQvgaeA&s" width="30" />
-    </td>
-    <td align="center">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrYZ8hTBz2-GU2W8sf1i0vxypsE12e-6SEIA&s" width="40" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="30" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="30" />
-    </td>
-  </tr>
-</table>
-
-</p>
-
-<br clear="left" />
+      <img src="https://skillicons.dev/icons?i=tailwind,postman,bootstrap,vscode" width="200" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZe81PCziV9mAq3eAhAmMNNQZ5He6sQvgaeA&s" width="45" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrYZ8hTBz2-GU2W8sf1i0vxypsE12e-6SEIA&s" width="45" />
+ </p>
 
 ---
 
