@@ -1,6 +1,12 @@
 <!--gif animaiton of computer-->
 <!--<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="300" /></p> -->
 <h1 align="left"><b>Hi , I'm Muhammad Saad Saif </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+✦ Full-stack web developer. Skilled in JavaScript, C++, and OOP, with hands-on experience in the MERN stack and Next.js.
+  </br>
+✦ Experienced in developing responsive websites, APIs, interactive applications, and implementing JWT authentication. Proficient with Git, GitHub, Postman, Bootstrap, and modern development workflows.
+</p>
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=50&&typeSpeed=120&deleteSpeed=80&lines=Computer+Science+Student;Frontend+developer;Backend+developer;React+%7C+MERN+Stack"></a>
