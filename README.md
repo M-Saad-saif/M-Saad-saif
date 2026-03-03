@@ -82,8 +82,8 @@
 <br>
 
 <!-- Dynamic 3D contributions graph -->
-## 📈📉Saad's github activity graph
-[![](https://github-readme-activity-graph.vercel.app/graph?username=M-Saad-saif&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 📈📉Saad's github Public activity graph
+[![](https://github-readme-activity-graph.vercel.app/graph?username=M-Saad-saif&theme=github-compact&)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
