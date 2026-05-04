@@ -42,7 +42,7 @@
 
 ## 🚀 Featured Projects
 
-#### [University Student Portal & Tools](https://github.com/M-Saad-saif/BuitemsWeb-auth)
+#### [University Student Portal & Tools](https://github.com/M-Saad-saif/BuitemsPortal-Nextjs)
 
 <div style="display:flex; align-items:center; ">
 
@@ -50,7 +50,7 @@
    <p>
   <i>A student-focused web platform providing essential academic tools such as a secure student portal, GPA/CGPA calculator, and assignment front-page generator — all in one place.</i> 
 </p>
-    <p><strong>Tech Stack:</strong> MERN stack</p>
+    <p><strong>Tech Stack:</strong> Next.js MongooDB</p>
   </div>
 
 </div>
