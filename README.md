@@ -19,6 +19,29 @@
 </div>
 
 ---
+```javascript
+const Muhammad_Saad_Saif = {
+  title: "Full Stack Developer",
+  location: "🇵🇰 Pakistan",
+
+  languages: ["JavaScript", "Python", "C++"],
+
+  frontend: ["React", "Next.js", "HTML5", "CSS3", "Tailwind CSS"],
+
+  backend: ["Node.js", "Express.js", "MongoDB"],
+
+  tools: ["Git", "GitHub", "Postman", "Canva", "Bootstrap", "Pinterest"],
+
+  aiAgents: [
+    { name: "ChatGPT", use: "Logic & Problem Solving" },
+    { name: "Claude", use: "Long-form Responses" },
+    { name: "Gemini", use: "Research & Brainstorming" },
+    { name: ["GitHub Copilot", "Codex"], use: "Code Completion, Debugging & Refactoring" },
+    { name: "DeepSeek", use: "UI Inspiration" },
+    { name: "Arena AI", use: "UI Inspiration" }
+  ]
+};
+```
 
 ## 🛠️ Languages and Tools
 
