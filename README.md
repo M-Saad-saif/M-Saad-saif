@@ -32,14 +32,7 @@ const Muhammad_Saad_Saif = {
 
   tools: ["Git", "GitHub", "Postman", "Canva", "Bootstrap", "Pinterest"],
 
-  aiAgents: [
-    { name: "ChatGPT", use: "Logic & Problem Solving" },
-    { name: "Claude", use: "Long-form Responses" },
-    { name: "Gemini", use: "Research & Brainstorming" },
-    { name: ["GitHub Copilot", "Codex"], use: "Code Completion, Debugging & Refactoring" },
-    { name: "DeepSeek", use: "UI Inspiration" },
-    { name: "Arena AI", use: "UI Inspiration" }
-  ]
+  AIagents: ["ChatGPT", "Claude", "Gemini", "GitHub Copilot", "Codex", "DeepSeek", "Arena AI", "opencode", "Antigravity"]
 };
 ```
 
