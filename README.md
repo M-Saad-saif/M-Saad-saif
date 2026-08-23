@@ -24,11 +24,11 @@ const Muhammad_Saad_Saif = {
   title: "Full Stack Developer",
   location: "🇵🇰 Pakistan",
 
-  languages: ["JavaScript", "Python", "C++"],
+  languages: ["JavaScript", "Python", "C++", "PHP"],
 
   frontend: ["React", "Next.js", "HTML5", "CSS3", "Tailwind CSS"],
 
-  backend: ["Node.js", "Express.js", "MongoDB"],
+  backend: ["Node.js", "Express.js", "MongoDB", "PHP"],
 
   tools: ["Git", "GitHub", "Postman", "Canva", "Bootstrap", "Pinterest"],
 
