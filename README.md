@@ -64,19 +64,19 @@ const Muhammad_Saad_Saif = {
 
   <div>
    <p>
-  <i>A student-focused web platform providing essential academic tools such as a secure student portal, GPA/CGPA calculator, and assignment front-page generator — all in one place.</i> 
+  <i>A student-focused web platform providing essential academic tools such as a secure student portal, GPA/CGPA calculator, and assignment front-page generator all in one place.</i> 
 </p>
     <p><strong>Tech Stack:</strong> Next.js MongooDB</p>
   </div>
 
 </div>
 
-#### [saadIXsocials | Social Web App](https://github.com/M-Saad-saif/saadiXsocial-CodeAlpha)
+#### [LegalPortal](https://github.com/M-Saad-saif/law-system)
 
 <div style="display:flex; align-items:center; ">
-      <i>A full-stack, production-ready social media platform built with the MERN stack. Connect, share, and engage with friends and family in a secure, modern environment.</i>
+      <i>LegalPortal centralizes case management, hearings, document handling, reminders, and AI-powered utilities into a single scalable platform built on Next.js 14 App Router architecture.</i>
     </p>
-    <p><strong>Tech Stack:</strong> MERN stack</p>
+    <p><strong>Tech Stack:</strong> NEXTjsk</p>
 </div>
 
 
