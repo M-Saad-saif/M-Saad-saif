@@ -39,7 +39,7 @@ const Muhammad_Saad_Saif = {
 ## 🛠️ Languages and Tools
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,mongodb" width="300" />
+   <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,mongodb,php" width="310" />
 </p>
 
 <p align="center">
